@@ -26,12 +26,9 @@
 
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 获奖情况
+1. 企业价值创造比赛实战赛校三等奖  
+2. 湖南工商大学电子商务大赛跨境赛校三等奖
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vickiihuang/vickiihuang.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# 自我评价
+我的心思细腻，做事认真负责，在大一一年中，我担任了学习委员的职务，并被班级推优，被评为了校级“优秀学生干部”；我喜欢挑战自己，积极参加学校举办的比赛。大一下学期，我获得了企业价值创造比赛实战赛校三等奖以及电子商务大赛跨境实战赛校三等奖；我的文字功底尚佳，大一时被湖工商青年采编部录用，为湖工商青年公众号编写推文；我喜欢与人交流，在疫情开始之前，我拥有三四个互相寄信的外国笔友，与他们交流彼此的生活；但是，我有时候会陷入一个自我怀疑的状态，对自己不够有信心；在任务未完成时，我的情绪会处于一个浅度焦虑的状态，直到事情做完才会有一种松口气的感觉。
