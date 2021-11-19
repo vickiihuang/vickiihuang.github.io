@@ -19,20 +19,11 @@
 
 ```
 * 大学主修课程
+1. 经济学类：宏观经济学、微观经济学、政治经济学、计量经济学
+2. 语言类：大学英语、商务英语视听说、二外（德语、法语、日语）
+3. 数学类：概率论、微积分、线性代数
+4. 其他：会计学、管理学、财政学、金融学
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
