@@ -23,7 +23,7 @@
 
 大学：2020-2024  湖南工商大学
 
-```markdown
+```大学主修课程
 Syntax highlighted code block
 
 # Header 1
