@@ -1,11 +1,18 @@
 ## 2001020020黄欣怡的个人主页
 姓名：黄欣怡   
 ###
-性别：女  
+出生年月：2002.12.25 
 ###
-出生年月：2002.12.25  
+性别：女
 ###
 籍贯：湖南省郴州市
+###
+
+###
+
+###
+
+###
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
