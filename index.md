@@ -7,9 +7,17 @@
 
 籍贯：湖南省郴州市
 
-### Markdown
+专业：国际经济与贸易
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+政治面貌：共青团员
+
+电子邮件：1297169418@qq.com
+
+### 技能总结
+外语水平：CET4 593分
+
+计算机水平：office计算机二级
+
 
 ```markdown
 Syntax highlighted code block
